@@ -166,13 +166,6 @@ input {
     height: 1.2rem;
 }
 
-/* input:valid {
-    outline:#96e1a5 auto .5px;;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
-    outline-offset: 0;
-    
-} */
-
 input:focus-visible {
     outline: #96b4ee auto .5px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.3);
